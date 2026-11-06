@@ -10,7 +10,7 @@
 
 <p align="center">
   <!-- cover.jpg অবশ্যই repo root এ থাকতে হবে -->
-  <img src="[cover.jpg](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/689888488_122130354069061248_2657768084886865923_n.jpg?stp=dst-jpg_tt6&cstp=mx1638x993&ctp=s1638x993&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=HYe0XywztEEQ7kNvwHf0Nnv&_nc_oc=AdqoZKYrolcwWo_n-rb9vnFEaFZMhsrTmvSk9sAm68ZxnYiiY-HJHdT-eJtNmbz98Bs&_nc_zt=23&_nc_ht=scontent.fdac157-1.fna&_nc_gid=sjLowxH2OkVawfh7HwL9Cg&_nc_ss=7b2a8&oh=00_AQSNEqCsley4TjM9aULA1ltNeshkXLYZh3eb2Jiblgcz-w&oe=6AF3B679)" alt="Banner" />
+  <img src="" alt="Photo" />
 </p>
 
 <hr>
